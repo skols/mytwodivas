@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on My Two Divas</title>
+    <link>http://www.mytwodivas.com/about/</link>
+    <description>Recent content in Abouts on My Two Divas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.mytwodivas.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.mytwodivas.com/about/desc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.mytwodivas.com/about/desc/</guid>
+      <description>This site is about the two lovely ladies in my life: my girlfriend Roxanne and my dog Luna. They are divas and this is their story.</description>
+    </item>
+    
+  </channel>
+</rss>

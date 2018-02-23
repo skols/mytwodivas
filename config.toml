@@ -1,0 +1,12 @@
+baseURL = "http://www.mytwodivas.com/"
+languageCode = "en-us"
+title = "My Two Divas"
+theme = "dream"
+
+[params]
+    author = "Skully"
+    motto = "Just a couple of lovely ladies and their guy."
+    aboutHeader = "About"
+    avatar = "/img/Roxanne_Luna_me_001.jpg"
+
+    siteStartYear = 2018

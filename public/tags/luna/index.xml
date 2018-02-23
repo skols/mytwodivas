@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luna on My Two Divas</title>
+    <link>http://www.mytwodivas.com/tags/luna/</link>
+    <description>Recent content in Luna on My Two Divas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Feb 2018 16:57:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.mytwodivas.com/tags/luna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Only Luna</title>
+      <link>http://www.mytwodivas.com/2018/02/11/luna-1/</link>
+      <pubDate>Thu, 15 Feb 2018 16:57:00 -0500</pubDate>
+      
+      <guid>http://www.mytwodivas.com/2018/02/11/luna-1/</guid>
+      <description>I have a lot of pictures of Luna by herself. Here&amp;rsquo;s one!
+ What a cutie!   </description>
+    </item>
+    
+    <item>
+      <title>Here they are again...</title>
+      <link>http://www.mytwodivas.com/2018/02/11/my-two-divas-2/</link>
+      <pubDate>Thu, 15 Feb 2018 16:54:05 -0500</pubDate>
+      
+      <guid>http://www.mytwodivas.com/2018/02/11/my-two-divas-2/</guid>
+      <description>  Just look how cute these two are!   </description>
+    </item>
+    
+    <item>
+      <title>I present my two divas</title>
+      <link>http://www.mytwodivas.com/2018/02/11/my-two-divas-1/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.mytwodivas.com/2018/02/11/my-two-divas-1/</guid>
+      <description>Here they are being the two lovely divas that they are.
+   </description>
+    </item>
+    
+  </channel>
+</rss>

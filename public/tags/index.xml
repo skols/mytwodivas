@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My Two Divas</title>
+    <link>http://www.mytwodivas.com/tags/</link>
+    <description>Recent content in Tags on My Two Divas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Feb 2018 16:57:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.mytwodivas.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diva</title>
+      <link>http://www.mytwodivas.com/tags/diva/</link>
+      <pubDate>Thu, 15 Feb 2018 16:57:00 -0500</pubDate>
+      
+      <guid>http://www.mytwodivas.com/tags/diva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luna</title>
+      <link>http://www.mytwodivas.com/tags/luna/</link>
+      <pubDate>Thu, 15 Feb 2018 16:57:00 -0500</pubDate>
+      
+      <guid>http://www.mytwodivas.com/tags/luna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roxanne</title>
+      <link>http://www.mytwodivas.com/tags/roxanne/</link>
+      <pubDate>Thu, 15 Feb 2018 16:54:05 -0500</pubDate>
+      
+      <guid>http://www.mytwodivas.com/tags/roxanne/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
